@@ -310,7 +310,7 @@
             </profile>
             <profile name="Heavy Sniper" typeId="705b-98a3-a21d-7118" typeName="Admiral Ability" hidden="false" id="4c47-6012-29da-5bda">
               <characteristics>
-                <characteristic name="Cost" typeId="e725-1a05-f360-abc6">3AP</characteristic>
+                <characteristic name="Cost" typeId="e725-1a05-f360-abc6">2AP</characteristic>
                 <characteristic name="Effect" typeId="49ae-26b2-d6ec-81aa">When you assign targets to a weapon with the Calibre-H special rule, the attacking Ship doubles its Scan value against H Tonnage Ships for that weapon’s attack (other attacks and weapons are unaffected).</characteristic>
               </characteristics>
             </profile>
@@ -1612,7 +1612,7 @@
       <selectionEntries>
         <selectionEntry type="model" import="true" name="Chrysaor Cutter" hidden="false" id="0349-9f60-b036-d2a1" publicationId="6462-e99b-594c-193a" page="18">
           <costs>
-            <cost name="pts" typeId="ab32-c9b6-10f3-cbdb" value="45"/>
+            <cost name="pts" typeId="ab32-c9b6-10f3-cbdb" value="40"/>
           </costs>
           <categoryLinks>
             <categoryLink name="Light Ship" hidden="false" id="84c6-137b-12b5-82da" targetId="f942-8f88-d77b-13c1" primary="true"/>
